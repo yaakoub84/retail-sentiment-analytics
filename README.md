@@ -1,7 +1,7 @@
 # 🛍️ Retail Sentiment Analysis — AI-Powered BI Pipeline
 
 > End-to-end analytics pipeline combining **Data Engineering**, 
-> **Azure OpenAI** and **Power BI** on real retail transactional data.
+> | **AI / LLM | OpenAI GPT-4o-mini API | and **Power BI** on real retail transactional data.
 
 ## 🎯 Business Context
 
